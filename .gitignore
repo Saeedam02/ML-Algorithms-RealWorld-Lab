@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Generated binary model files are intentionally not committed.
+artifacts/models/*.joblib
