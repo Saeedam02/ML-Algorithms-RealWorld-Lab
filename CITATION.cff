@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this educational repository, please cite it."
+title: "ML Algorithms Real-World Lab"
+type: software
+authors:
+  - family-names: "Saeed"
+version: 1.0.0
+date-released: 2026-09-01
+license: MIT
+repository-code: "https://github.com/Saeedam02/ML-Algorithms-RealWorld-Lab"
